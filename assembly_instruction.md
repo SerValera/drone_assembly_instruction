@@ -20,6 +20,7 @@
 2. Load firmware on the SpeedyBee.
 3. Bind the RC remote to the receiver (prepare instructions).
 4. Load parameters to SpeedyBee through Mission Planner software.
+- https://ardupilot.org/planner/docs/mission-planner-installation.html
 5. Check flight modes (Stabilize, AltHold, PosHold, Killswitch).
 6. Check motor speed direction (A, B, C, D).
 
